@@ -4,6 +4,7 @@
 
 Criação de uma simples agenda para salvar contatos, para teste de habilidades
 Por ser minha primeira aplicação utilizando data base fui fazendo ela vendo video aula do Joao Ribeiro (que esta na página inicial do meu github)
+Porém houve momentos em que eu conseguir corrigir 3 bug's sozinho (que sensação ótima)
 
 
 Foi utilizado o SQLCE por ser leve e poderoso, e ser facil de manuseo no windows.
