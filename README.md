@@ -1,5 +1,5 @@
 # AgendaSQL
-### AgendaSQL, utilizando SQLCE
+### AgendaSQL, utilizando SQLCE e feita com Windows Forms.
 
 
 Criação de uma simples agenda para salvar contatos, para teste de habilidades
